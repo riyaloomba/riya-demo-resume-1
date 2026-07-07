@@ -36,6 +36,8 @@ Highly motivated Software Engineer with experience in automotive software develo
 ### Web Technologies
 - HTML
 - CSS
+- API
+- Javascript
 - WordPress
 
 ### Concepts
